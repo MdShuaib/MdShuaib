@@ -16,7 +16,7 @@ I'm a graduade with an Bachelor's Degree in Computer Science from Pune Universit
 
 - NodeJS | ExpressJS
 - Angular | ReactJS
-- MOngoDB | AWS | SCSS
+- MongoDB | AWS | SCSS
 
 ## Connect with Me
 
