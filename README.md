@@ -1,21 +1,101 @@
-# Hello, I'm Mohammad Shuaib! 👋
+<div align="center">
 
-## About Me
+```
+███╗   ███╗██████╗     ███████╗██╗  ██╗██╗   ██╗ █████╗ ██╗██████╗
+████╗ ████║██╔══██╗    ██╔════╝██║  ██║██║   ██║██╔══██╗██║██╔══██╗
+██╔████╔██║██║  ██║    ███████╗███████║██║   ██║███████║██║██████╔╝
+██║╚██╔╝██║██║  ██║    ╚════██║██╔══██║██║   ██║██╔══██║██║██╔══██╗
+██║ ╚═╝ ██║██████╔╝    ███████║██║  ██║╚██████╔╝██║  ██║██║██████╔╝
+╚═╝     ╚═╝╚═════╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝
+```
 
-I'm a graduade with an Bachelor's Degree in Computer Science from Pune University. Since January (2016), I have been working as a Full Stack developer in multiple organization right from start-up to MNC. I collaborate closely across teams(UI/UX Design, Cloud, and Client) with great people who are helping communities all over the world. As a Developer, my responsibilities include task delegation and ensuring tasks are completed by the deadline and of high quality. I also take care of the weekly Front-end progress demonstrations to stakeholders. We are building some great applications that is intended to be used by communities helping to improve their understanding of their emotional health. I love knowing my contributions as a Developer are going towards a great cause.
-  
-- 👀 I’m currently working on improving: Next.js Tailwind CSS TypeScript/ReactJS Building a large scalable Next.js Project - Let's see will update soon...
-  
-- 📫 How to reach me ... Email: mshuaibin@gmail.com
+### Full-Stack Engineer · Industrial IoT Builder
 
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shuaib-5b62399a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshuaibin@gmail.com)
 
-- NodeJS | ExpressJS
-- Angular | ReactJS
-- MongoDB | AWS | SCSS
 
-## Connect with Me
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mshuaib.mshuaib&style=for-the-badge)
 
-- [LinkedIn](https://www.linkedin.com/in/mohammad-shuaib-5b62399a/)
+</div>
 
-Thanks for visiting! 😄
+---
+
+## `$ whoami`
+
+```python
+class MohammadShuaib:
+    location    = "Pune, Maharashtra, India 🇮🇳"
+    experience  = "10+ years across startups → MNCs"
+
+    stack = {
+        "backend":    ["Django", "DRF", "Django Channels", "Daphne", "Node.js"],
+        "frontend":   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        "realtime":   ["WebSockets", "MQTT", "TCP-IP", "Redis"],
+        "infra":      ["PostgreSQL", "Docker", "Nginx", "DigitalOcean"],
+        "hardware":   ["STM32 MCUs", "RS485", "USB CDC", "Embedded C"],
+        "ai_tooling": ["Claude"],
+    }
+
+    currently_obsessing_over = "MQTT ↔ React real-time sync for PTL rack systems"
+```
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "languages":   ["Python", "JavaScript", "TypeScript", "C (Embedded)"],
+  "frameworks":  ["Django", "DRF", "React", "Next.js", "Express"],
+  "databases":   ["PostgreSQL", "MongoDB", "Redis"],
+  "messaging":   ["MQTT", "WebSockets", "Django Channels"],
+  "devops":      ["Docker", "Nginx", "DigitalOcean", "Linux"],
+  "hardware_sw": ["STM32", "RS485", "USB CDC", "Modbus"],
+  "design":      ["Tailwind CSS", "shadcn/ui", "SCSS"],
+  "practices":   [
+    "Multi-tenant SaaS Architecture",
+    "Real-time Systems Design",
+    "AI-assisted development (Cursor / Windsurf)",
+    "Industrial IoT Integration",
+    "Role-based Access Control"
+  ]
+}
+```
+
+---
+
+## `$ cat /etc/philosophy`
+
+```
+I don't write code. I build systems.
+
+There's a difference between a developer who ships features
+and one who understands the factory floor well enough to know
+which feature will sit unused because no one on the floor
+has time to read a modal.
+
+10 years in. Still shipping. Still learning.
+```
+
+---
+
+## `$ ping shuaib`
+
+```
+PING mshuaibin@gmail.com — always open to:
+  → Collaborations on industrial SaaS / IoT
+  → Technical discussions on Django, React, embedded systems
+  → Founders building hard things in manufacturing / automation
+
+Response time: Usually < 24h
+```
+
+<div align="center">
+
+---
+
+*Made in Pune*
+`© Mohammad Shuaib`
+
+</div>
